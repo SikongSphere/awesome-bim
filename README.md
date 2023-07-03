@@ -2,6 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/SikongSphere/awesome-bim)](https://github.com/SikongSphere/awesome-bim/stargazers)[![GitHub forks](https://img.shields.io/github/forks/SikongSphere/awesome-bim)](https://github.com/SikongSphere/awesome-bim/network)![GitHub contributors](https://img.shields.io/github/contributors/SikongSphere/awesome-bim)![GitHub last commit](https://img.shields.io/github/last-commit/SikongSphere/awesome-bim)[![GitHub license](https://img.shields.io/github/license/SikongSphere/awesome-bim)](https://github.com/SikongSphere/awesome-bim/blob/master/LICENSE)
 
+[![pCUMVOJ.md.png](https://s1.ax1x.com/2023/06/26/pCUMVOJ.md.png)](https://imgse.com/i/pCUMVOJ)
+
 Awesome BIM is a collection of BIM related sources, which is made by SikongSphere Community. It includes IFC Specification, BIM Software, IFC Tools, BIM Database, Deep Learning Framework, BIM Library, and more.
 
 Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
