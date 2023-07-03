@@ -8,24 +8,24 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 
 **Table Of Contents**
 
-- [Industry Foundation Classes Specification](Industry Foundation Classes Specification)
-- [Building Information Moduling Software](Building Information Moduling Software)
-- [IFC Tools](IFC Tools)
-- [Front-end Framework](Front-end Framework)
-- [BIM Database](BIM Database)
-- [Deep Learning](Deep Learning)
-  - [Large Language Model (LLM)](Large Language Model (LLM))
-- [BIM Library](BIM Library)
-  - [C](C)
-  - [C++](C++)
-  - [Java](Java)
-  - [C Sharp](C Sharp)
-  - [Python](Python)
-  - [JavaScript](JavaScript)
-- [Open Source Dataset](Open Source Dataset)
-- [Papers](Papers)
-- [Reference](Reference)
-- [Cooperation Units](Cooperation Units)
+- Industry Foundation Classes Specification
+- Building Information Moduling Software
+- IFC Tools
+- Front-end Framework
+- BIM Database
+- Deep Learning
+  - Large Language Model (LLM)
+- BIM Library
+  - C
+  - C++
+  - Java
+  - C Sharp
+  - Python
+  - JavaScript
+- Open Source Dataset
+- Papers
+- Reference
+- Cooperation Units
 
 ---
 
